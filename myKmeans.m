@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [] = myKmeans()
 %K-Means Clustering Algorithm
 
