@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [] = logisticLDF(C0,C1)
 %Create a logistic LDF line
 
