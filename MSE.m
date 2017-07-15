@@ -1,3 +1,5 @@
+%© 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [] = MSE( C0, C1, b )
 %Fisher LDF is the MSE for a particular choice of b
 
