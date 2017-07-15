@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [answer] = SteepestDescent(f,x1,num_iter)
 %Uses the method of steepest descent to find the absolute minimum
 %f = function for which minimum is desired
