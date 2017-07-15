@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [ Wi, Wh ] = TrainNN( Label, D, numEpoch, nH, eta )
 %Back Propagation
 %Learning Algorithm that determines weights to 
