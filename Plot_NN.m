@@ -1,4 +1,5 @@
 % Use this function to plot the Neural Net
+% © 2017 MARK DEBONIS ALL RIGHTS RESERVED
 
 function Plot_NN(Wi, Wh, Label, D)
 
