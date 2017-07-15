@@ -1,3 +1,5 @@
+%© 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [] = PCA(data)
 %Using Principle Component Analysis (PCA)
 %to compute direction of maximal variance and the corresponding angle 
