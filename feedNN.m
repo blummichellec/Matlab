@@ -1,3 +1,6 @@
+% Use this function in accordance with my TrainNN function
+% © 2017 MARK DEBONIS ALL RIGHTS RESERVED
+
 function [Net, netk, augY, z] = feedNN(Wi, Wh, x)
 
 % x should be biased (i.e. augmented)
