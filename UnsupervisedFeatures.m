@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [] = UnsupervisedFeatures()
 %Takes adjacency matrices and examines them to sort
 
