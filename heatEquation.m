@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 % NAME: Michelle Blum
 % DATE: May 5th, 2017
 % This code numerically solves the heat equation
