@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [] = perceptronLDF( C0,C1,a1 )
 %Perceptron
 %Starting at seed a1, uses Perceptron method to 
