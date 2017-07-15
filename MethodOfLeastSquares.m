@@ -1,3 +1,5 @@
+%© 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function [ ] = MethodOfLeastSquares( f1, f2, f3, f4 )
 %Uses the Method of Lease Squares to find the best approximation of a
 %solution to the given linear system
