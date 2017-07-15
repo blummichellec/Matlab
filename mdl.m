@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function y = mdl(p,C)
 %Function used to create function handle
 
