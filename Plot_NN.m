@@ -1,3 +1,5 @@
+% Use this function to plot the Neural Net
+
 function Plot_NN(Wi, Wh, Label, D)
 
 % EX: XOR
