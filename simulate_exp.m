@@ -1,3 +1,5 @@
+% © 2017 MICHELLE BLUM ALL RIGHTS RESERVED
+
 function D = simulate_exp(n,numbins,L)
 %Uses the Inverse Transform Method to generate data points for exponential
 %distribution
